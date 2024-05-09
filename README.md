@@ -6,3 +6,11 @@
 <img  alt="Static Badge" src="https://img.shields.io/badge/Gradle-v8.5-white?style=plastic&logo=gradle&labelColor=%23008000">
 
 </p>
+
+<h3 align="center"> Diagrama do projeto</h3>
+<figure>
+<p align="center">
+<img src="https://i.imgur.com/cECs6CI_d.jpg?maxwidth=520&shape=thumb&fidelity=high" height="500" width="250"/>
+<p/>
+</figure>
+<p align="center">UML simplificado de uma Lanchonete</p>
